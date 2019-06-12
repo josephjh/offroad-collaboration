@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       {routes}
+      <h1> Hero world</h1>
     </div>
   );
 }
